@@ -15,10 +15,10 @@ Related modules
 ---
 see <a href="http://wiki.opensourceecology.de/0install">0install</a>
 
-* `walker_remote_control
+* `walker_remote_control`
 * `walker_network_control`
-* `hydraulic_manipulator
-
+* `walker_three_point_coupling`
+* `hydraulic_manipulator`
 
 
 Reverse dependency examples
