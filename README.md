@@ -65,7 +65,7 @@ It's hierarchical: (another reason for the TODO above)
 
 When a citizen find it, then the tech is activated, i.e. new structs can be built, the knowledge is still limited to the research group or rather where the information is stored (includes the brain, papers of the researchers).
 
-This is especially about structures which can not learn actively itself. These must have its capabilities clearly specified or the functionality is added via e.g. new attachments with specified new features due to the technology research become available and the tank can be upgraded.
+This is especially about structures which can not learn actively itself. A struct must have its capabilities clearly specified or the functionality is added via e.g. new attachments with specified new features due to the technology research become available and the e.g. tank thus can be upgraded.
 
 
 
